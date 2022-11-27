@@ -33,6 +33,8 @@ int main(){
 				}
   }
 	printf("%s", line);
+	//Extract numerals, measurement and ingredient
+	//First remove words like "of, knob, slice"
   /*
 	Measurements to search for:
 	g
